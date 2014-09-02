@@ -1,7 +1,7 @@
 # Hi,
 
 This project is created to build a blog..
-Url: http://lagiacrus-c9-dannych.c9.io/
+Url: <http://lagiacrus-c9-dannych.c9.io/>
 
 # [Ghost](https://github.com/TryGhost/Ghost) [![Build Status](https://travis-ci.org/TryGhost/Ghost.svg?branch=master)](https://travis-ci.org/TryGhost/Ghost)
 
@@ -11,5 +11,9 @@ Visit the project's website at <http://ghost.org> &bull; docs on <http://support
 
 # [Disqus](https://github.com/disqus)
 
-Disqus is the commenting tool that I used in this blog
+Disqus is the commenting tool that I used in this blog.
+
+You can see their website here: <https://disqus.com/>
+
+
 
